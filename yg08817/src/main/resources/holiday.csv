@@ -1,0 +1,21 @@
+COUNTRYCODE,COUNTRYDESC,HOLIDAYDATE,HOLIDAYNAME
+US,United States,2023-01-01,New Year's Day
+US,United States,2023-01-16,Martin Luther King Jr. Day
+US,United States,2023-02-20,Washington's Birthday
+US,United States,2023-04-29,Memorial Day
+CN,China,2024-01-01,New Year's Day
+CN,China,2024-01-31,Chinese New Year
+CN,China,2024-04-04,Qingming Festival
+CN,China,2024-05-01,Labour Day
+JP,Japan,2025-01-01,New Year's Day
+JP,Japan,2025-01-13,Coming of Age Day
+JP,Japan,2025-02-11,National Foundation Day
+JP,Japan,2025-04-29,Showa Day
+IN,India,2023-01-26,Republic Day
+IN,India,2023-03-14,Maha Shivaratri
+IN,India,2023-04-29,Good Friday
+IN,India,2023-05-01,Labour Day
+UK,United Kingdom,2024-01-01,New Year's Day
+UK,United Kingdom,2024-03-29,Good Friday
+UK,United Kingdom,2024-05-06,Early May Bank Holiday
+UK,United Kingdom,2024-05-27,Spring Bank Holiday
